@@ -1,6 +1,5 @@
 import React from 'react';
-
-const list = ['shopping', 'gym', 'call Jhon'];
+import { list } from '../db';
 
 const List = () => {
   return (
